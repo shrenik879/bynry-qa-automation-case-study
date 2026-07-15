@@ -5,8 +5,8 @@ This repository contains my submission for the **Bynry QA Automation Engineering
 ## Repository Contents
 
 - `README.md` — Repository overview and documentation
-- `QA_Automation_Case_Study.docx` — Complete case study submission
-- `QA_Automation_Case_Study.pdf` — PDF version of the submission (if available)
+- `QA_Automation_Case_Study.docx` — https://docs.google.com/document/d/1XQ05-NZy22i8U5EaCnLZVWx3NczzfpUKjdaCzJioOfw/edit?usp=sharing
+- `QA_Automation_Case_Study.pdf` —
 
 ## Assessment Overview
 
